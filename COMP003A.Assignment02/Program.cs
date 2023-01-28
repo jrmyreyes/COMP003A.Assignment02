@@ -69,7 +69,6 @@ namespace COMP003A.Assignment02
             double circumference = 2 * Math.PI * radius;
             Console.WriteLine($"The area is {area}");
             Console.WriteLine($"The circumference is {circumference}");
-
         }
     }
 }
